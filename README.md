@@ -1,2 +1,2 @@
 # weird-things
-To find werid Java usages.
+To find really werid Java usages.
